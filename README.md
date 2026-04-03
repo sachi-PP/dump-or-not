@@ -4,7 +4,7 @@
 
 > "我不知道要不要分，我就是说说而已……说了三年了。"
 
-**把你的感情困惑丢给一个毒舌 Mean Girl 闺蜜，让她帮你看清楚。**
+**你犹豫的时间，比这段感情值钱。**
 
 ![License MIT](https://img.shields.io/badge/License-MIT-black?style=flat-square)
 ![OpenClaw Skill](https://img.shields.io/badge/OpenClaw-Skill-a855f7?style=flat-square)
